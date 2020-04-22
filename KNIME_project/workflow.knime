@@ -8,7 +8,7 @@
 <entry key="authored-by" type="xstring" value="Toshi"/>
 <entry key="authored-when" type="xstring" value="2020-04-23 01:17:20 +0900"/>
 <entry key="lastEdited-by" type="xstring" value="Toshi"/>
-<entry key="lastEdited-when" type="xstring" value="2020-04-23 01:36:32 +0900"/>
+<entry key="lastEdited-when" type="xstring" value="2020-04-23 01:18:22 +0900"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="CONFIGURED"/>
@@ -46,37 +46,11 @@
 </config>
 </config>
 </config>
-<config key="node_3">
-<entry key="id" type="xint" value="3"/>
-<entry key="node_settings_file" type="xstring" value="Scatter Plot (#3)/settings.xml"/>
-<entry key="node_is_meta" type="xboolean" value="false"/>
-<entry key="node_type" type="xstring" value="NativeNode"/>
-<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
-<config key="ui_settings">
-<config key="extrainfo.node.bounds">
-<entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="244"/>
-<entry key="1" type="xint" value="37"/>
-<entry key="2" type="xint" value="73"/>
-<entry key="3" type="xint" value="78"/>
-</config>
-</config>
-</config>
 </config>
 <config key="connections">
 <config key="connection_0">
 <entry key="sourceID" type="xint" value="1"/>
 <entry key="destID" type="xint" value="2"/>
-<entry key="sourcePort" type="xint" value="1"/>
-<entry key="destPort" type="xint" value="1"/>
-<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
-<config key="ui_settings">
-<entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
-</config>
-</config>
-<config key="connection_1">
-<entry key="sourceID" type="xint" value="2"/>
-<entry key="destID" type="xint" value="3"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
